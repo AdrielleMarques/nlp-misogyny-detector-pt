@@ -1,0 +1,12 @@
+# Dependências para os notebooks de classificação de misoginia
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+torch
+transformers
+datasets
+evaluate
+jupyterlab
+ipykernel
