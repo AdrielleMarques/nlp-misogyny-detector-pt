@@ -61,9 +61,9 @@ pip install -r requirements.txt
 3. Run the Streamlit App
 streamlit run app.py
 
-📂 Project Structure (Suggested)
-├── app.py                
-├── requirements.txt      
+📂 Project Structure
+├── app/                     
 ├── notebooks/            
-├── presentation/         
+├── presentation/
+├── requirements.txt       
 └── README.md             
